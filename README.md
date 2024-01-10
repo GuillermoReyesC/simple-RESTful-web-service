@@ -27,9 +27,12 @@ Tutorial: Developing a RESTful API with Go and Gin
  http://localhost:8080/albums
 
 
-# if it works the endpoint should be return something like
+# if it works the endpoint should be return something like :
 
- $ curl http://localhost:8080/albums
+in a terminal, run:
+
+ $ curl http://localhost:8080/albums  
+
  [
     {
         "id": "1",
