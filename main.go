@@ -64,11 +64,3 @@ func main() {
 	router.GET("/albums/:id", getAlbumByID)
 	router.Run("localhost:8080")
 }
-
-// post a new album with curl in a new terminal
-
-// curl http://localhost:8080/albums \
-//     --include \
-//     --header "Content-Type: application/json" \
-//     --request "POST" \
-//     --data '{"id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'
