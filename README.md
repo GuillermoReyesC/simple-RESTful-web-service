@@ -36,19 +36,19 @@ Tutorial: Developing a RESTful API with Go and Gin
         "title": "Blue Train",
         "artist": "John Coltrane",
         "price": 56.99
-    },
+    },  
     {
         "id": "2",
         "title": "Jeru",
         "artist": "Gerry Mulligan",
         "price": 17.99
-    },
+    },  
     {
         "id": "3",
         "title": "Sarah Vaughan and Clifford Brown",
         "artist": "Sarah Vaughan",
         "price": 39.99
-    },
+    },  
     {
         "id": "4",
         "title": "The Modern Sound of Betty Carter",
